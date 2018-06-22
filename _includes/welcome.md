@@ -1,20 +1,17 @@
-# Welcome
+# Bem-vindo
 
-There's a lot of outdated information on the Web that leads new PHP users astray,
-propagating bad practices and insecure code. _PHP: The Right Way_ is an easy-to-read,
-quick reference for PHP popular coding standards, links to authoritative tutorials
-around the Web and what the contributors consider to be best practices at the present
-time.
+Existe muita informação desatualizada na web que leva a que novos utilizadores do PHP se percam, proporcionando más 
+práticas e códigos inseguros. O _PHP: Como Deve Ser_ contém os padrões de programação em PHP mais populares, links para 
+tutoriais de renome e também o que os colaboradores consideram ser as boas práticas no momento.
 
-_There is no canonical way to use PHP_. This website aims to introduce new PHP
-developers to some topics which they may not discover until it is too late, and aims
-to give seasoned pros some fresh ideas on those topics they've been doing for years
-without ever reconsidering. This website will also not tell you which tools to use, but
-instead offer suggestions for multiple options, when possible explaining the differences
-in approach and use-case.
+_Não existe uma forma canónica de usar o PHP_. Este site tem como objetivo introduzir novos programadores PHP para 
+alguns tópicos que podem não descobrir até que seja tarde demais. Tem também como objetivo dar aos profissionais 
+experientes algumas ideias novas sobre coisas que eles vêm fazendo há anos e nunca foram reconsideradas. Este site 
+não informa quais as ferramentas a usar, mas oferece sugestões para várias opções, e quando possível, explica as 
+diferentes abordagens e casos de uso.
 
-This is a living document and will continue to be updated with more helpful information
-and examples as they become available.
+Este é um documento vivo que continuará a ser atualizado com novas informações e exemplos mais úteis à medida que forem 
+disponibilizados.
 
 ## Translations
 
