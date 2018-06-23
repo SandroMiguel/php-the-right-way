@@ -13,9 +13,9 @@ diferentes abordagens e casos de uso.
 Este é um documento vivo que continuará a ser atualizado com novas informações e exemplos mais úteis à medida que forem 
 disponibilizados.
 
-## Translations
+## Traduções
 
-_PHP: The Right Way_ is translated into many different languages:
+_PHP: Como Deve Ser_ é traduzido em vários idiomas:
 
 * [English](http://www.phptherightway.com)
 * [Deutsch](http://rwetzlmayr.github.io/php-the-right-way)
@@ -25,6 +25,7 @@ _PHP: The Right Way_ is translated into many different languages:
 * [Italiano](http://it.phptherightway.com)
 * [Polski](http://pl.phptherightway.com)
 * [Português do Brasil](http://br.phptherightway.com)
+* [Português (Portugal)](http://pt.phptherightway.com)
 * [Română](https://bgui.github.io/php-the-right-way/)
 * [Slovenščina](http://sl.phptherightway.com)
 * [Srpski](http://phpsrbija.github.io/php-the-right-way/)
@@ -40,13 +41,13 @@ _PHP: The Right Way_ is translated into many different languages:
 * [简体中文](http://laravel-china.github.io/php-the-right-way/)
 * [繁體中文](http://laravel-taiwan.github.io/php-the-right-way)
 
-## Book
+## Livro
 
-The most recent version of _PHP: The Right Way_ is also available in PDF, EPUB and MOBI formats. [Go to Leanpub][1]
+A versão mais recente do _PHP: Como Deve Ser_ também está disponível nos formatos PDF, EPUB e MOBI. [Ir para Leanpub][1]
 
-## How to Contribute
+## Como contribuir
 
-Help make this website the best resource for new PHP programmers! [Contribute on GitHub][2]
+Ajude a tornar este site o melhor recurso para novos programadores de PHP! [Contribua no GitHub][2]
 
 [1]: https://leanpub.com/phptherightway
 [2]: https://github.com/codeguy/php-the-right-way/tree/gh-pages
