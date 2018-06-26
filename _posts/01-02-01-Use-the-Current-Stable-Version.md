@@ -1,14 +1,20 @@
 ---
-title:   Use the Current Stable Version (7.2)
+title:   Use a versão estável atual (7.2)
 isChild: true
 anchor:  use_the_current_stable_version
 ---
 
-## Use the Current Stable Version (7.2) {#use_the_current_stable_version_title}
+## Use a versão estável atual (7.2) {#use_the_current_stable_version_title}
 
-If you are getting started with PHP, start with the current stable release of [PHP 7.2][php-release]. PHP 7.x adds many [new features](#language_highlights) over the older 5.x versions. The engine has been largely re-written, and PHP is now even quicker than older versions.
+Se você está a começar a aprender PHP, comece pela versão atual estável do [PHP 7.2][php-release]. O PHP 7.x adicionou
+ [novas funcionalidades](#language_highlights) sobre as versões 5.x mais antigas. O _engine_ foi amplamente 
+ reescrito, e o PHP é agora ainda mais rápido que nas versões anteriores.
 
-You should try to upgrade to the latest stable version quickly - PHP 5.6 [will not receive security updates beyond 2018](http://php.net/supported-versions.php).  Upgrading is easy, as there are not many [backwards compatibility breaks][php72-bc]. If you are not sure which version a function or feature is in, you can check the PHP documentation on the [php.net][php-docs] website.
+Deve migrar para a última versão estável rapidamente - O PHP 5.6 
+[não receberá atualizações de segurança depois de 2018](http://php.net/supported-versions.php).  A atualização é 
+fácil, pois não existem muitas [quebras de compatibilidade com versões anteriores][php72-bc]. Se não tiver a certeza
+ em qual versão uma função ou determinado recurso se encontra, pode verificar na documentação do PHP no site 
+ [php.net][php-docs].
 
 [php-release]: http://php.net/downloads.php
 [php-docs]: http://php.net/manual/
